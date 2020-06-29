@@ -6,7 +6,7 @@
 
 * Programming language: c++
 
-* Compiler: mpic++
+* Compiler: g++
 
 ## Compile
 
