@@ -26,4 +26,4 @@ Number 1: for compressing file, input the local path of file needed to be compre
 
 Number 2: for decompressing file, input the local path of compressed file
 
-NUmber 3: exit
+Number 3: exit
